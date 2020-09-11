@@ -1,0 +1,33 @@
+html,
+body,
+#navigation {
+    background-color: #121212;
+}
+
+#donor,
+#footer {
+    background-color: #222;
+}
+
+
+#view {
+    background-color: #555;
+}
+
+.box {
+    background-color: #444;
+}
+.box .box-header
+{
+    background-color: #222;
+}
+
+.box .box-content
+{
+    background-color: #444;
+}
+
+h1, h2, h3, h4, h5, p
+{
+    color: white;
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Site Dark Mode",
+    "description": "Give your eyes a break with darkmode across the scratch website",
+    
+    "userstyles": [
+        {
+          "url": "userstyle.css",
+          "matches": ["https://scratch.mit.edu/*"]
+        }
+    ],
+
+    "persistent_scripts": [],
+    "tags": ["community", "theme"],
+    "enabled_by_default": true
+
+
+}
